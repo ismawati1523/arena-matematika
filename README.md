@@ -2,7 +2,7 @@
 
 Enam permainan matematika untuk papan interaktif digital, kelas X dan XI SMK Negeri 4 Malang, tahun pelajaran 2026/2027.
 
-**Buka:** https://anggreanityas.github.io/arena-matematika/
+**Buka:** https://ismawati1523.github.io/arena-matematika/
 
 ## Permainan
 
